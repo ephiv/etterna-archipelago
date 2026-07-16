@@ -1,0 +1,7 @@
+{
+  "game": "Etterna",
+  "creator": "Etterna Archipelago contributors",
+  "filler_item_name": "Toast Note",
+  "starting_items": [{"items": ["Standard Pack Access"]}],
+  "minimum_ap_version": "0.6.2"
+}
